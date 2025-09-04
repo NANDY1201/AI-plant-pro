@@ -1,33 +1,5 @@
-<p align="center">
-  <img src="https://www.rapier.rs/img/rapier_logo_color_textpath_dark.svg" alt="crates.io">
-</p>
-<p align="center">
-    <a href="https://discord.gg/vt9DJSW">
-        <img src="https://img.shields.io/discord/507548572338880513.svg?logo=discord&colorB=7289DA">
-    </a>
-    <a href="https://github.com/dimforge/rapier.js/actions">
-        <img src="https://github.com/dimforge/rapier.js/workflows/build/badge.svg" alt="Build status">
-    </a>
-    <a href="https://crates.io/crates/rapier3d">
-         <img src="https://meritbadge.herokuapp.com/rapier3d?style=flat-square" alt="crates.io">
-    </a>
-    <a href="https://www.npmjs.com/package/@dimforge/rapier3d">
-        <img src="https://badge.fury.io/js/%40dimforge%2Frapier3d.svg" alt="npm version">
-    </a>
-    <a href="https://opensource.org/licenses/Apache-2.0">
-        <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
-    </a>
-</p>
-<p align = "center">
-    <strong>
-        <a href="https://rapier.rs">Website</a> | <a href="https://rapier.rs/docs/">Documentation</a>
-</p>
+<img width="1898" height="915" alt="image" src="https://github.com/user-attachments/assets/50c47178-581b-439a-84cd-f66346664a9b" />
+<img width="1892" height="916" alt="image" src="https://github.com/user-attachments/assets/f3ff630e-ffb6-44d2-a24e-4f735a980bf2" />
+<img width="1466" height="699" alt="image" src="https://github.com/user-attachments/assets/9ae5cc5f-25f0-478d-91b9-b37792523810" />
+<img width="1486" height="902" alt="image" src="https://github.com/user-attachments/assets/a8f8a113-95a1-4439-8927-f0dc1dbcddb5" />
 
----
-
-<p align = "center">
-<b>3D physics engine</b>
-<i>for the JavaScript programming language (official bindings).</i>
-</p>
-
----
